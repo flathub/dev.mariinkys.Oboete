@@ -11,7 +11,9 @@
         "--share=ipc",
         "--socket=fallback-x11",
         "--socket=wayland",
-        "--device=dri"
+        "--device=dri",
+        "--filesystem=xdg-config/cosmic:ro",
+        "--talk-name=com.system76.CosmicSettingsDaemon"
     ],
     "build-options": {
         "append-path": "/usr/lib/sdk/rust-stable/bin"
@@ -38,8 +40,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/mariinkys/oboete.git",
-                    "tag": "0.1.4",
-                    "commit": "0e05eb4dc153afa4c3519a5c20a93d76f0fd3511"
+                    "tag": "0.1.5",
+                    "commit": "f70bc52cb234aea635df68da898524267498b272"
                 },
                 "cargo-sources.json"
             ]
