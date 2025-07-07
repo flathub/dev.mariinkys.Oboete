@@ -12,7 +12,7 @@
         "--socket=fallback-x11",
         "--socket=wayland",
         "--device=dri",
-        "--filesystem=xdg-config/cosmic:ro",
+        "--filesystem=xdg-config/cosmic:rw",
         "--talk-name=com.system76.CosmicSettingsDaemon"
     ],
     "build-options": {
@@ -40,8 +40,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/mariinkys/oboete.git",
-                    "tag": "0.1.9",
-                    "commit": "52f18327b47662742467c2870061b0e68b7dc5aa"
+                    "tag": "0.1.10",
+                    "commit": "e008322d443e1b150bdc4ecb3c4a89193255491f"
                 },
                 "cargo-sources.json"
             ]
