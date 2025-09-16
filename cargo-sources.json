@@ -45,7 +45,8 @@
         "type": "git",
         "url": "https://github.com/pop-os/cosmic-text",
         "commit": "355b7febb17ecb0522346fcc5aff6ea78e33e78a",
-        "dest": "flatpak-cargo/git/cosmic-text-355b7fe"
+        "dest": "flatpak-cargo/git/cosmic-text-355b7fe",
+        "disable-lfs": true
     },
     {
         "type": "git",
