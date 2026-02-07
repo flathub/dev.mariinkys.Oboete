@@ -41,8 +41,7 @@
         {
           "type": "git",
           "url": "https://github.com/mariinkys/oboete.git",
-          "tag": "0.2.3",
-          "commit": "13968acdacb8beb0e24d453c64de0ef3c7bc2555"
+          "commit": "8fc48d71a4e39f3d4214952644b13a3e0f14b96b"
         },
         "cargo-sources.json"
       ]
