@@ -1,7 +1,7 @@
 {
   "app-id": "dev.mariinkys.Oboete",
   "runtime": "org.freedesktop.Platform",
-  "runtime-version": "25.08",
+  "runtime-version": "26.08",
   "sdk": "org.freedesktop.Sdk",
   "sdk-extensions": ["org.freedesktop.Sdk.Extension.rust-stable"],
   "base": "com.system76.Cosmic.BaseApp",
@@ -40,8 +40,8 @@
         {
           "type": "git",
           "url": "https://github.com/mariinkys/oboete.git",
-          "tag": "0.2.7",
-          "commit": "f31555aaa4b61b31920da49b0f568d7cb06481e4"
+          "tag": "0.2.8",
+          "commit": "a3d4f71a739e9efaf5e743ed0b51c15617b4e5df"
         },
         "cargo-sources.json"
       ]
